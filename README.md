@@ -1,5 +1,5 @@
 # About LLM
-**JunHyeok Choi**
+**namjuu3913**
 
 ---
 
